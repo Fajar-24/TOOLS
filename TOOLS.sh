@@ -84,8 +84,7 @@ figlet "3"|lolcat
 figlet "2"|lolcat
 figlet "1"|lolcat
 clear
-figlet "EROR"|lolcat
-echo " karena anda banyak dosa "|lolcat
-echo " WHAT THE FUCK "|lolcat
-figlet "FUCK"|lolcat
+git clone https://github.com/Fajar-24/FreeFire
+cd FreeFire
+sh Fire.sh
 fi
