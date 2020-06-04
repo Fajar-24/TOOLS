@@ -34,7 +34,7 @@ echo "1.[÷] DARK FB"|lolcat
 echo "2.[÷] phising"|lolcat
 echo "3.[÷] MBF"|lolcat
 echo 
-read -p " [?] pilih : " pil:|lolcat
+read -p " [?] pilih = " pil=|lolcat
 
 if [ $pil = 1 ]
 then
@@ -58,7 +58,7 @@ sh v2.sh
 fi
 
 
-if [ $pil = 2 ]
+if [ $pil = 3 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
