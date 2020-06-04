@@ -31,9 +31,10 @@ echo "GUNAKAN TOOLS INI DENGAN BIJAK"|lolcat
 echo "pilih menu Tools nya"|lolcat
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB phising Gmail        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB MBF    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB DARK NEW     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB DARK NEW        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB PHISING     "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB MBF      "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB Hack FREE FIRE      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo 
 read -p"└──#|lolcat " pil
@@ -69,3 +70,21 @@ git clone https://github.com/Fajar-24/CendolDawet
 cd CendolDawet
 python2 Hack.py
 fi
+
+if [ $pil = 4 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+echo " TUNGGU SEBENTAR SCRIPT AKAN DI INSTALL "|lolcat
+echo " SCRIPT AKAN DI INSTALL TUNGGU 5 DETIK "|lolcat
+figlet "5"|lolcat
+figlet "4"|lolcat
+figlet "3"|lolcat
+figlet "2"|lolcat
+figlet "1"|lolcat
+clear
+figlet "EROR"|lolcat
+echo " karena anda banyak dosa "|lolcat
+echo " WHAT THE FUCK "|lolcat
+figlet "FUCK"|lolcat
