@@ -34,7 +34,7 @@ echo "1.[÷] DARK FB"|lolcat
 echo "2.[÷] phising"|lolcat
 echo "3.[÷] MBF"|lolcat
 echo 
-read -p " [?] pilih = " pil=|lolcat
+read -p"└──# " pil|lolcat
 
 if [ $pil = 1 ]
 then
