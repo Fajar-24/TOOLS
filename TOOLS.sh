@@ -35,26 +35,34 @@ echo "2.[÷] phising"|lolcat
 echo "3.[÷] MBF"|lolcat
 echo 
 read -p " [?] pilih : " pil:|lolcat
-#
-clear
-if [ $pil -1 ]
+
+if [ $pil = 1 ]
 then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Fajar-24/CyberNEW
 cd CyberNEW
 python2 Cyber.py
 fi
-#
-clear
-if [ $pil -2 ]
+
+
+if [ $pil = 2 ]
 then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Fajar-24/phising
 cd phising
 sh v2.sh
 fi
-#
-clear
-if [ $pil -3 ]
+
+
+if [ $pil = 2 ]
 then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Fajar-24/CendolDawet
 cd CendolDawet
 python2 Hack.py
