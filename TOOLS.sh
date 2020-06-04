@@ -30,11 +30,13 @@ echo "Untuk Username Dan Password Hubungi 08817805411"|lolcat
 echo "GUNAKAN TOOLS INI DENGAN BIJAK"|lolcat
 echo "pilih menu Tools nya"|lolcat
 echo
-echo "1.[÷] DARK FB"|lolcat
-echo "2.[÷] phising"|lolcat
-echo "3.[÷] MBF"|lolcat
+echo $i"────────────────────────────────    ─────"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB phising Gmail        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB MBF    "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB DARK NEW     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo 
-read -p"└──# " pil|lolcat
+read -p"└──#|lolcat " pil
 
 if [ $pil = 1 ]
 then
