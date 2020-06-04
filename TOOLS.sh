@@ -37,7 +37,7 @@ echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB MBF      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB Hack FREE FIRE      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo 
-read -p"└──#|lolcat " pil
+read -p"└──# " pil
 
 if [ $pil = 1 ]
 then
@@ -88,3 +88,4 @@ figlet "EROR"|lolcat
 echo " karena anda banyak dosa "|lolcat
 echo " WHAT THE FUCK "|lolcat
 figlet "FUCK"|lolcat
+fi
