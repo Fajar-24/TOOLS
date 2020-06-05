@@ -110,7 +110,7 @@ sh HACKPULSA.sh
 fi
 
 
-if [ $pil = 5 ]
+if [ $pil = 6 ]
 then
 clear
 figlet -f slant "B A C O T"|lolcat
